@@ -1,4 +1,3 @@
-require 'rubygems'
 require 'hashie'
 require 'sinatra'
 require 'pry'
