@@ -1,8 +1,7 @@
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
-
+require 'rubygems'
+require 'hashie'
+require 'sinatra'
+require 'pry'
+require 'AwesomePrints'
 
 require_relative '../config/environment'
